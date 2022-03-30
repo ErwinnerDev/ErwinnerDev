@@ -8,6 +8,7 @@
   Soy programador full stack, me gusta estar en constante actualización sobre las tecnologías emergentes, y estoy <b>abierto a cualquier contribución en la que me sea invitado a participar</b>, cuento con tres años de experiencia en el <i>fantástico</i> mundo de la programación. Te invito a revisar algunos de mis repositorios que tengo como públicos para puedas ver las tecnologías en las que suelo trabajar, así como recibir feedback si lo consideras necesario (lo cual te agradecería mucho).
 </p>
 
+
 <h3 align="center">🌱 Actualmente... </h3>
 <div align="center">
   <ul>
@@ -17,6 +18,8 @@
     <li> Próximamente me podré a mejorar mi nivel de inglés</li>
   </ul>
 </div>
+<br/>
+<br/>
 <h3 align="center"> 💻 Lenguajes y herramientas de programación </h3>
 <div align="center">
   <h4> 🛠 Back End</h4>
@@ -44,8 +47,8 @@
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">React.js</code>
   </p>
 </div>
-
-
+<br/>
+<br/>
 <h3 align="center"> 🤝🏻 !Contactame! </h3>
 <p align="center">
 &nbsp; <a href="https://twitter.com/ErwinCMayo" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
