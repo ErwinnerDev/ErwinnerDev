@@ -5,7 +5,7 @@
 -->
 <h3 align="center"> 👨🏻‍💻 Sobre mi </h3>
 <p align="center">
-  Soy programador full stack, me gusta estar en constante actualización sobre las tecnologías emergentes, y estoy <b>abierto a cualquier contribución en la que me sea invitado a participar</b>, cuento con tres años de experiencia en el <i>fantástico</i> mundo de la programación. Te invito a revisar algunos de mis repositorios que tengo como públicos para puedas ver las tecnologías en las que suelo trabajar, así como recibir feedback si lo consideras necesario (lo cual te agradecería mucho).
+  Soy programador full stack, me gusta estar en constante actualización sobre las tecnologías emergentes, y estoy <b>abierto a cualquier contribución en la que me sea invitado a participar</b>, cuento con tres años de experiencia en el <i>fantástico</i> mundo de la programación. Te invito a revisar algunos de mis repositorios que tengo como públicos para que puedas ver algunas de las tecnologías en las que suelo trabajar, así como recibir feedback si lo consideras necesario (lo cual te agradecería mucho).
 </p>
 
 
