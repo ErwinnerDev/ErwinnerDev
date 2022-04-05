@@ -45,6 +45,8 @@
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">CSS</code>
     <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">JavaScript</code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">React.js</code>
+    <code><img width="5%" src="https://img.icons8.com/color/480/redux.png">Redux</code>
+    
   </p>
 </div>
 <br/>
